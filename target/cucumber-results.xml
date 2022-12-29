@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="25.14">
+    <testcase classname="Contact Us Test" name="Go to website and test to contact us page" time="24.798">
+        <system-out><![CDATA[Given navigate to website...................................................passed
+And click on contact us button..............................................passed
+And select Subject Heading..................................................passed
+And type Email..............................................................passed
+And type Order reference "123"..............................................passed
+And type a message..........................................................passed
+When click on send button...................................................passed
+Then verify success message.................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
